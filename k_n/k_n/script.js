@@ -22,7 +22,6 @@ $(function(){
         }
         $('.pole_game').html(pole);
         $('.pole_game input').each(function(){
-            //лодлодлодлодлодододододдоддддддддддддддддддддддддддд
                 $(this).on('click', function(e){
                     if(hod){
                         if($(this).prop("checked")){
@@ -81,8 +80,7 @@ $(function(){
     });
 });
 
-function fun (t) {//111111111111111 шгшг11111000
-    //акук
+function fun (t) {
     var position, sektorElem, sektorElemPos, index;
     t.parent().addClass('nol');
     position = t.attr('name');
@@ -113,7 +111,7 @@ function provHodUser(position, v1, v2) {
 }
 
 function myHod(position){
-    // вто123рой коммент 112
+
     var n = 0, vv = 0, len, index, elem, elemName, k = true, max = [0, 0], min = [0, 0];
     var s, pustoe = 0;
 
@@ -204,7 +202,7 @@ function myHod(position){
     }
 }
 function pro(position, user, ii) {
-// комментарий 3    р
+
     var len, sum = 0;
     for(i = 0, len = mas.length; i < len; i++){
         n = mas[i][1].indexOf(position);

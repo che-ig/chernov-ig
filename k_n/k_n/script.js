@@ -81,7 +81,7 @@ $(function(){
     });
 });
 
-function fun (t) {//111111111111111 шгшг11111
+function fun (t) {//111111111111111 шгшг11111000
     //акук
     var position, sektorElem, sektorElemPos, index;
     t.parent().addClass('nol');

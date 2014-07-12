@@ -81,7 +81,7 @@ $(function(){
 });
 
 function fun (t) {
-    var position, sektorElem, sektorElemPos, index;
+    var position, sektorElem, sektorElemPos;
     t.parent().addClass('nol');
     position = t.attr('name');
     hod = false;

@@ -22,6 +22,7 @@ $(function(){
         }
         $('.pole_game').html(pole);
         $('.pole_game input').each(function(){
+            //лодлодлодлодлодододододдоддддддддддддддддддддддддддд
                 $(this).on('click', function(e){
                     if(hod){
                         if($(this).prop("checked")){

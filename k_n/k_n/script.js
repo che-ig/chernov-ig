@@ -2,7 +2,7 @@ var i, j,
     raz, sekt = 1, centr, sumUser = true,
     hod = true, propuskHod = true,
     mas = [], sektor = [], mySum = [[],[]];
-
+//rjjkjkjljljlkjlkjljljjljlj
 $(function(){
     $('.next_gane').on('click', function(e){
         e.preventDefault();

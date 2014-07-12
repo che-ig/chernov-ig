@@ -202,7 +202,7 @@ function myHod(position){
     }
 }
 function pro(position, user, ii) {
-
+// комментарий 3    р
     var len, sum = 0;
     for(i = 0, len = mas.length; i < len; i++){
         n = mas[i][1].indexOf(position);

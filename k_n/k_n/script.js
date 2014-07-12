@@ -111,7 +111,7 @@ function provHodUser(position, v1, v2) {
 }
 
 function myHod(position){
-
+    // второй коммент
     var n = 0, vv = 0, len, index, elem, elemName, k = true, max = [0, 0], min = [0, 0];
     var s, pustoe = 0;
 

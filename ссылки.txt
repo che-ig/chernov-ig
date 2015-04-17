@@ -29,7 +29,12 @@ http://www.global-rates.com
 
 vpn.tensor.ru:501
 
-Торговля без индикаторов. Часть 2 (вебинар)
+финансовые данные о компаниях
+http://www.gurufocus.com/stock/AMZN
 
 Отчеты
 http://biz.yahoo.com/research/earncal/20150323.html
+
+
+объемы с CME
+http://forum.mql4.com/ru/56717

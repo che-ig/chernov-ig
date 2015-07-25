@@ -38,3 +38,6 @@ http://biz.yahoo.com/research/earncal/20150323.html
 
 объемы с CME
 http://forum.mql4.com/ru/56717
+
+cайт по переводу из pdf в djvu
+http://djvu.org/any2djvu/

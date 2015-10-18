@@ -21,6 +21,7 @@ http://www.cmegroup.com/market-data/daily-bulletin.html
 ftp://ftp.cmegroup.com/bulletin
 
 открытый интерес по евро
+Monetary Policy -> Open market operations
 https://www.ecb.europa.eu/mopo/implement/omo/html/index.en.html
 
 процентные ставки

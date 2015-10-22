@@ -66,6 +66,9 @@ http://www.koshelek77.ru/womens/koshelek-zhenskiy-simplicity#
 
 http://yartokar.ru/index.shtml
 
+Модули python
+https://pypi.python.org/pypi?%3Aaction=search&term=html&submit=search
+http://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 узлы
 https://www.youtube.com/watch?v=eAZ-zEGAYuc

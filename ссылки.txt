@@ -9,8 +9,6 @@ http://data.hgca.com/archive/future.asp
 https://www.quandl.com/c/futures/ice-cotton-futures
 
 
-
-
 iro74523@gmail.com
 
 smitnic525@gmail.com
@@ -46,31 +44,6 @@ http://djvu.org/any2djvu/
 АПТЕКИ 
 http://yaroslavl.po-aptekam.ru
 http://yapte.ru/drugs/7388
-
-http://ru.aliexpress.com/store/product/Genuine-Leather-Wallet-High-quality-3D-Fashion-men-Wallets-mens-wallet-leather-genuine-Purses-card-holder/710896_32343187927.html?storeId=710896
-
-
-http://ru.aliexpress.com/item/-/1916336213.html?s=p
-
-http://ru.aliexpress.com/item/-/32309348674.html?s=p
-
-http://ru.aliexpress.com/item/2015-100-Genuine-Leather-Snake-Skin-Women-Wallet-Fashion-Short-Money-Bag-Party-Evening-Clutch-Coin/1938284581.html
-
-http://www.koshelek77.ru/womens/koshelek-zhenskiy-simplicity#
-Кошелек KARYA 1058.53
-
-
-ИНН ГАЗ 7604049153
-
-Кап ремонт ИНН 7604194785 Р/с 40604810577030000066   Чернова Татьяна Федоровна Ярославль ул. Доронина д. 10 к. 4 кв. 74
-
-Квартплата МЛП "ИРЦ (ОАО Ярославльлифт)"
-р/с 40602810377030000022
-
-электроэнергия
-Р/С 40702810103000013450
-
-http://yartokar.ru/index.shtml
 
 Модули python
 https://pypi.python.org/pypi?%3Aaction=search&term=html&submit=search
